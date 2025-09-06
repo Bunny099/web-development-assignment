@@ -19,7 +19,7 @@ model School {
   address String
   city    String
   state   String
-  contact Int
+  contact String
   image   String
   email   String
 }
