@@ -15,7 +15,7 @@ The goal was to build a mini system with two main pages:
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bunny099/web-development-assignment.git
 cd <repo-folder>
 pnpm install
 ```
